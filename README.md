@@ -9,3 +9,8 @@
 --排行榜<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.对象序列化的使用<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.JTextPane
+<br>
+<br>
+![Image text](https://raw.githubusercontent.com/ttyan/Ball-Ball-Battle/master/images/jietu/Register.jpg)<br><br><br>
+![Image text](https://raw.githubusercontent.com/ttyan/Ball-Ball-Battle/master/images/jietu/game.jpg)<br><br><br>
+![Image text](https://raw.githubusercontent.com/ttyan/Ball-Ball-Battle/master/images/jietu/sort.jpg)<br><br><br>
